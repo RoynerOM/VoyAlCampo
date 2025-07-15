@@ -1,0 +1,825 @@
+{
+    "id": 49,
+    "name": "Efesios",
+    "abbreviation": "Ef",
+    "testament": "Nuevo Testamento",
+    "chapters": [
+        {
+            "number": 1,
+            "title": null,
+            "section_title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Pablo, apóstol de Jesucristo por la voluntad de Dios, a los santos y fieles en Cristo Jesús que están en Efeso:",
+                    "section_title": "Salutación"
+                },
+                {
+                    "verse": 2,
+                    "text": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales en Cristo,",
+                    "section_title": "Bendiciones espirituales en Cristo"
+                },
+                {
+                    "verse": 4,
+                    "text": "según nos escogió en él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de él,",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "en amor habiéndonos predestinado para ser adoptados hijos suyos por medio de Jesucristo, según el puro afecto de su voluntad,",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "para alabanza de la gloria de su gracia, con la cual nos hizo aceptos en el Amado,",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "en quien tenemos redención por su sangre, el perdón de pecados según las riquezas de su gracia,",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "que hizo sobreabundar para con nosotros en toda sabiduría e inteligencia,",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "dándonos a conocer el misterio de su voluntad, según su beneplácito, el cual se había propuesto en si mismo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "de reunir todas las cosas en Cristo, en la dispensación del cumplimiento de los tiempos, así las que están en los cielos, como las que están en la tierra.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "En él asimismo tuvimos herencia, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el designio de su voluntad,",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "a fin de que seamos para alabanza de su gloria, nosotros los que primeramente esperábamos en Cristo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "En él también vosotros, habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo creído en él, fuisteis sellados con el Espíritu Santo de la promesa,",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "que es las arras de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria.",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "Por esta causa también yo, habiendo oído de vuestra fe en el Señor Jesús, y de vuestro amor para con todos los santos,",
+                    "section_title": "El espíritu de sabiduría y de revelación"
+                },
+                {
+                    "verse": 16,
+                    "text": "no ceso de dar gracias por vosotros, haciendo memoria de vosotros en mis oraciones,",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "para que el Dios de nuestro Señor Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación en el conocimiento de él,",
+                    "section_title": null
+                },
+                {
+                    "verse": 18,
+                    "text": "alumbrando los ojos de vuestro entendimiento, para que sepáis cuál es la esperanza a que él os ha llamado, y cuáles las riquezas de la gloria de su herencia en los santos,",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "y cuál la supereminente grandeza de su poder para con nosotros los que creemos, según la operación del poder de su fuerza,",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "la cual operó en Cristo, resucitándole de los muertos y sentándole a su diestra en los lugares celestiales,",
+                    "section_title": null
+                },
+                {
+                    "verse": 21,
+                    "text": "sobre todo principado y autoridad y poder y señorío, y sobre todo nombre que se nombra, no sólo en este siglo, sino también en el venidero;",
+                    "section_title": null
+                },
+                {
+                    "verse": 22,
+                    "text": "y sometió todas las cosas bajo sus pies, y lo dio por cabeza sobre todas las cosas a la iglesia,",
+                    "section_title": null
+                },
+                {
+                    "verse": 23,
+                    "text": "la cual es su cuerpo, la plenitud de Aquel que todo lo llena en todo.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": null,
+            "section_title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Y él os dio vida a vosotros, cuando estabais muertos en vuestros delitos y pecados,",
+                    "section_title": "Salvos por gracia"
+                },
+                {
+                    "verse": 2,
+                    "text": "en los cuales anduvisteis en otro tiempo, siguiendo la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia,",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "entre los cuales también todos nosotros vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos, y éramos por naturaleza hijos de ira, lo mismo que los demás.",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "Pero Dios, que es rico en misericordia, por su gran amor con que nos amó,",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "aun estando nosotros muertos en pecados, nos dio vida juntamente con Cristo (por gracia sois salvos),",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "y juntamente con él nos resucitó, y asimismo nos hizo sentar en los lugares celestiales con Cristo Jesús,",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "para mostrar en los siglos venideros las abundantes riquezas de su gracia en su bondad para con nosotros en Cristo Jesús.",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios;",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "no por obras, para que nadie se gloríe.",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "Por tanto, acordaos de que en otro tiempo vosotros, los gentiles en cuanto a la carne, erais llamados incircuncisión por la llamada circuncisión hecha con mano en la carne.",
+                    "section_title": "Reconciliación por medio de la cruz"
+                },
+                {
+                    "verse": 12,
+                    "text": "En aquel tiempo estabais sin Cristo, alejados de la ciudadanía de Israel y ajenos a los pactos de la promesa, sin esperanza y sin Dios en el mundo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "Pero ahora en Cristo Jesús, vosotros que en otro tiempo estabais lejos, habéis sido hechos cercanos por la sangre de Cristo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque él es nuestra paz, que de ambos pueblos hizo uno, derribando la pared intermedia de separación,",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "aboliendo en su carne las enemistades, la ley de los mandamientos expresados en ordenanzas, para crear en sí mismo de los dos un solo y nuevo hombre, haciendo la paz,",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "y mediante la cruz reconciliar con Dios a ambos en un solo cuerpo, matando en ella las enemistades.",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "Y vino y anunció las buenas nuevas de paz a vosotros que estabais lejos, y a los que estaban cerca;",
+                    "section_title": null
+                },
+                {
+                    "verse": 18,
+                    "text": "porque por medio de él los unos y los otros tenemos entrada por un mismo Espíritu al Padre.",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "Así que ya no sois extranjeros ni advenedizos, sino conciudadanos de los santos, y miembros de la familia de Dios,",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "edificados sobre el fundamento de los apóstoles y profetas, siendo la principal piedra del ángulo Jesucristo mismo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 21,
+                    "text": "en quien todo el edificio, bien coordinado, va creciendo para ser un templo santo en el Señor;",
+                    "section_title": null
+                },
+                {
+                    "verse": 22,
+                    "text": "en quien vosotros también sois juntamente edificados para morada de Dios en el Espíritu.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": null,
+            "section_title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Por esta causa yo Pablo, prisionero de Cristo Jesús por vosotros los gentiles;",
+                    "section_title": "Ministerio de Pablo a los gentiles"
+                },
+                {
+                    "verse": 2,
+                    "text": "si es que habéis oído de la administración de la gracia de Dios que me fue dada para con vosotros;",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "que por revelación me fue declarado el misterio, como antes lo he escrito brevemente,",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "leyendo lo cual podéis entender cuál sea mi conocimiento en el misterio de Cristo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "misterio que en otras generaciones no se dio a conocer a los hijos de los hombres, como ahora es revelado a sus santos apóstoles y profetas por el Espíritu:",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "que los gentiles son coherederos y miembros del mismo cuerpo, y copartícipes de la promesa en Cristo Jesús por medio del evangelio,",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "del cual yo fui hecho ministro por el don de la gracia de Dios que me ha sido dado según la operación de su poder.",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "A mí, que soy menos que el más pequeño de todos los santos, me fue dada esta gracia de anunciar entre los gentiles el evangelio de las inescrutables riquezas de Cristo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "y de aclarar a todos cuál sea la dispensación del misterio escondido desde los siglos en Dios, que creó todas las cosas;",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "para que la multiforme sabiduría de Dios sea ahora dada a conocer por medio de la iglesia a los principados y potestades en los lugares celestiales,",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "conforme al propósito eterno que hizo en Cristo Jesús nuestro Señor,",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "en quien tenemos seguridad y acceso con confianza por medio de la fe en él;",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "por lo cual pido que no desmayéis a causa de mis tribulaciones por vosotros, las cuales son vuestra gloria.",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "Por esta causa doblo mis rodillas ante el Padre de nuestro Señor Jesucristo,",
+                    "section_title": "El amor que excede a todo conocimiento"
+                },
+                {
+                    "verse": 15,
+                    "text": "de quien toma nombre toda familia en los cielos y en la tierra,",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "para que os dé, conforme a las riquezas de su gloria, el ser fortalecidos con poder en el hombre interior por su Espíritu;",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "para que habite Cristo por la fe en vuestros corazones, a fin de que, arraigados y cimentados en amor,",
+                    "section_title": null
+                },
+                {
+                    "verse": 18,
+                    "text": "seáis plenamente capaces de comprender con todos los santos cuál sea la anchura, la longitud, la profundidad y la altura,",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "y de conocer el amor de Cristo, que excede a todo conocimiento, para que seáis llenos de toda la plenitud de Dios.",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "Y a Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en nosotros,",
+                    "section_title": null
+                },
+                {
+                    "verse": 21,
+                    "text": "a él sea gloria en la iglesia en Cristo Jesús por todas las edades, por los siglos de los siglos. Amén.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": null,
+            "section_title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Yo pues, preso en el Señor, os ruego que andéis como es digno de la vocación con que fuisteis llamados,",
+                    "section_title": "La unidad del Espíritu"
+                },
+                {
+                    "verse": 2,
+                    "text": "con toda humildad y mansedumbre, soportándoos con paciencia los unos a los otros en amor,",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "solícitos en guardar la unidad del Espíritu en el vínculo de la paz;",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "un cuerpo, y un Espíritu, como fuisteis también llamados en una misma esperanza de vuestra vocación;",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "un Señor, una fe, un bautismo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "un Dios y Padre de todos, el cual es sobre todos, y por todos, y en todos.",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "Pero a cada uno de nosotros fue dada la gracia conforme a la medida del don de Cristo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "Por lo cual dice: Subiendo a lo alto, llevó cautiva la cautividad, Y dio dones a los hombres.",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "Y eso de que subió, ¿qué es, sino que también había descendido primero a las partes más bajas de la tierra?",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "El que descendió, es el mismo que también subió por encima de todos los cielos para llenarlo todo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "Y él mismo constituyó a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, pastores y maestros,",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "a fin de perfeccionar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "hasta que todos lleguemos a la unidad de la fe y del conocimiento del Hijo de Dios, a un varón perfecto, a la medida de la estatura de la plenitud de Cristo;",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "para que ya no seamos niños fluctuantes, llevados por doquiera de todo viento de doctrina, por estratagema de hombres que para engañar emplean con astucia las artimañas del error,",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "sino que siguiendo la verdad en amor, crezcamos en todo en aquel que es la cabeza, esto es, Cristo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "de quien todo el cuerpo, bien concertado y unido entre sí por todas las coyunturas que se ayudan mutuamente, según la actividad propia de cada miembro, recibe su crecimiento para ir edificándose en amor.",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "Esto, pues, digo y requiero en el Señor: que ya no andéis como los otros gentiles, que andan en la vanidad de su mente,",
+                    "section_title": "La nueva vida en Cristo"
+                },
+                {
+                    "verse": 18,
+                    "text": "teniendo el entendimiento entenebrecido, ajenos de la vida de Dios por la ignorancia que en ellos hay, por la dureza de su corazón;",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "los cuales, después que perdieron toda sensibilidad, se entregaron a la lascivia para cometer con avidez toda clase de impureza.",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "Mas vosotros no habéis aprendido así a Cristo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 21,
+                    "text": "si en verdad le habéis oído, y habéis sido por él enseñados, conforme a la verdad que está en Jesús.",
+                    "section_title": null
+                },
+                {
+                    "verse": 22,
+                    "text": "En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está viciado conforme a los deseos engañosos,",
+                    "section_title": null
+                },
+                {
+                    "verse": 23,
+                    "text": "y renovaos en el espíritu de vuestra mente,",
+                    "section_title": null
+                },
+                {
+                    "verse": 24,
+                    "text": "y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 25,
+                    "text": "Por lo cual, desechando la mentira, hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros.",
+                    "section_title": null
+                },
+                {
+                    "verse": 26,
+                    "text": "Airaos, pero no pequéis; no se ponga el sol sobre vuestro enojo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 27,
+                    "text": "ni deis lugar al diablo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 28,
+                    "text": "El que hurtaba, no hurte más, sino trabaje, haciendo con sus manos lo que es bueno, para que tenga qué compartir con el que padece necesidad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 29,
+                    "text": "Ninguna palabra corrompida salga de vuestra boca, sino la que sea buena para la necesaria edificación, a fin de dar gracia a los oyentes.",
+                    "section_title": null
+                },
+                {
+                    "verse": 30,
+                    "text": "Y no contristéis al Espíritu Santo de Dios, con el cual fuisteis sellados para el día de la redención.",
+                    "section_title": null
+                },
+                {
+                    "verse": 31,
+                    "text": "Quítense de vosotros toda amargura, enojo, ira, gritería y maledicencia, y toda malicia.",
+                    "section_title": null
+                },
+                {
+                    "verse": 32,
+                    "text": "Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros, como Dios también os perdonó a vosotros en Cristo.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": null,
+            "section_title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Sed, pues, imitadores de Dios como hijos amados.",
+                    "section_title": "Andad como hijos de luz"
+                },
+                {
+                    "verse": 2,
+                    "text": "Y andad en amor, como también Cristo nos amó, y se entregó a símismo por nosotros, ofrenda y sacrificio a Dios en olor fragante.",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "Pero fornicación y toda inmundicia, o avaricia, ni aun se nombre entre vosotros, como conviene a santos;",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "ni palabras deshonestas, ni necedades, ni truhanerías, que no convienen, sino antes bien acciones de gracias.",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "Porque sabéis esto, que ningún fornicario, o inmundo, o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios.",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "Nadie os engañe con palabras vanas, porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia.",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "No seáis, pues, partícipes con ellos.",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "Porque en otro tiempo erais tinieblas, mas ahora sois luz en el Señor; andad como hijos de luz",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "(porque el fruto del Espíritu es en toda bondad, justicia y verdad),",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "comprobando lo que es agradable al Señor.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "Y no participéis en las obras infructuosas de las tinieblas, sino más bien reprendedlas;",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "porque vergonzoso es aun hablar de lo que ellos hacen en secreto.",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "Mas todas las cosas, cuando son puestas en evidencia por la luz, son hechas manifiestas; porque la luz es lo que manifiesta todo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "Por lo cual dice: Despiértate, tú que duermes, Y levántate de los muertos, Y te alumbrará Cristo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "Mirad, pues, con diligencia cómo andéis, no como necios sino como sabios,",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "aprovechando bien el tiempo, porque los días son malos.",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "Por tanto, no seáis insensatos, sino entendidos de cuál sea la voluntad del Señor.",
+                    "section_title": null
+                },
+                {
+                    "verse": 18,
+                    "text": "No os embriaguéis con vino, en lo cual hay disolución; antes bien sed llenos del Espíritu,",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "hablando entre vosotros con salmos, con himnos y cánticos espirituales, cantando y alabando al Señor en vuestros corazones;",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "dando siempre gracias por todo al Dios y Padre, en el nombre de nuestro Señor Jesucristo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 21,
+                    "text": "Someteos unos a otros en el temor de Dios.",
+                    "section_title": "Someteos los unos a los otros"
+                },
+                {
+                    "verse": 22,
+                    "text": "Las casadas estén sujetas a sus propios maridos, como al Señor;",
+                    "section_title": null
+                },
+                {
+                    "verse": 23,
+                    "text": "porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia, la cual es su cuerpo, y él es su Salvador.",
+                    "section_title": null
+                },
+                {
+                    "verse": 24,
+                    "text": "Así que, como la iglesia está sujeta a Cristo, así también las casadas lo estén a sus maridos en todo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 25,
+                    "text": "Maridos, amad a vuestras mujeres, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella,",
+                    "section_title": null
+                },
+                {
+                    "verse": 26,
+                    "text": "para santificarla, habiéndola purificado en el lavamiento del agua por la palabra,",
+                    "section_title": null
+                },
+                {
+                    "verse": 27,
+                    "text": "a fin de presentársela a sí mismo, una iglesia gloriosa, que no tuviese mancha ni arruga ni cosa semejante, sino que fuese santa y sin mancha.",
+                    "section_title": null
+                },
+                {
+                    "verse": 28,
+                    "text": "Así también los maridos deben amar a sus mujeres como a sus mismos cuerpos. El que ama a su mujer, a sí mismo se ama.",
+                    "section_title": null
+                },
+                {
+                    "verse": 29,
+                    "text": "Porque nadie aborreció jamás a su propia carne, sino que la sustenta y la cuida, como también Cristo a la iglesia,",
+                    "section_title": null
+                },
+                {
+                    "verse": 30,
+                    "text": "porque somos miembros de su cuerpo, de su carne y de sus huesos.",
+                    "section_title": null
+                },
+                {
+                    "verse": 31,
+                    "text": "Por esto dejará el hombre a su padre y a su madre, y se unirá a su mujer, y los dos serán una sola carne.",
+                    "section_title": null
+                },
+                {
+                    "verse": 32,
+                    "text": "Grande es este misterio; mas yo digo esto respecto de Cristo y de la iglesia.",
+                    "section_title": null
+                },
+                {
+                    "verse": 33,
+                    "text": "Por lo demás, cada uno de vosotros ame también a su mujer como a sí mismo; y la mujer respete a su marido.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": null,
+            "section_title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Hijos, obedeced en el Señor a vuestros padres, porque esto es justo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 2,
+                    "text": "Honra a tu padre y a tu madre, que es el primer mandamiento con promesa;",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "para que te vaya bien, y seas de larga vida sobre la tierra.",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "Y vosotros, padres, no provoquéis a ira a vuestros hijos, sino criadlos en disciplina y amonestación del Señor.",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "Siervos, obedeced a vuestros amos terrenales con temor y temblor, con sencillez de vuestro corazón, como a Cristo;",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "no sirviendo al ojo, como los que quieren agradar a los hombres, sino como siervos de Cristo, de corazón haciendo la voluntad de Dios;",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "sirviendo de buena voluntad, como al Señor y no a los hombres,",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "sabiendo que el bien que cada uno hiciere, ése recibirá del Señor, sea siervo o sea libre.",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "Y vosotros, amos, haced con ellos lo mismo, dejando las amenazas, sabiendo que el Señor de ellos y vuestro está en los cielos, y que para él no hay acepción de personas.",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza.",
+                    "section_title": "La armadura de Dios"
+                },
+                {
+                    "verse": 11,
+                    "text": "Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes.",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y habiendo acabado todo, estar firmes.",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "Estad, pues, firmes, ceñidos vuestros lomos con la verdad, y vestidos con la coraza de justicia,",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "y calzados los pies con el apresto del evangelio de la paz.",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno.",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "Y tomad el yelmo de la salvación, y la espada del Espíritu, que es la palabra de Dios;",
+                    "section_title": null
+                },
+                {
+                    "verse": 18,
+                    "text": "orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos;",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "y por mí, a fin de que al abrir mi boca me sea dada palabra para dar a conocer con denuedo el misterio del evangelio,",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "por el cual soy embajador en cadenas; que con denuedo hable de él, como debo hablar.",
+                    "section_title": null
+                },
+                {
+                    "verse": 21,
+                    "text": "Para que también vosotros sepáis mis asuntos, y lo que hago, todo os lo hará saber Tíquico, hermano amado y fiel ministro en el Señor,",
+                    "section_title": "Salutaciones finales"
+                },
+                {
+                    "verse": 22,
+                    "text": "el cual envié a vosotros para esto mismo, para que sepáis lo tocante a nosotros, y que consuele vuestros corazones.",
+                    "section_title": null
+                },
+                {
+                    "verse": 23,
+                    "text": "Paz sea a los hermanos, y amor con fe, de Dios Padre y del Señor Jesucristo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 24,
+                    "text": "La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor inalterable. Amén.",
+                    "section_title": null
+                }
+            ]
+        }
+    ]
+}

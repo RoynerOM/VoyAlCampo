@@ -1,0 +1,32 @@
+{
+  "name": "voyalcampo",
+  "version": "1.0.0",
+  "description": "**VoyAlCampo** es una API REST pública y modular diseñada para servir la Palabra de Dios de manera clara, rápida y accesible, enfocada en **el envío misionero, el discipulado y el estudio bíblico**.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoynerOM/VoyAlCampo.git"
+  },
+  "keywords": [
+    "Biblia"
+  ],
+  "author": "Royner Oporta Meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoynerOM/VoyAlCampo/issues"
+  },
+  "homepage": "https://github.com/RoynerOM/VoyAlCampo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
