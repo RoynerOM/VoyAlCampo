@@ -7,7 +7,6 @@
         {
             "number": 1,
             "title": null,
-            "section_title": null,
             "verses": [
                 {
                     "verse": 1,
@@ -134,7 +133,6 @@
         {
             "number": 2,
             "title": null,
-            "section_title": null,
             "verses": [
                 {
                     "verse": 1,
@@ -246,7 +244,6 @@
         {
             "number": 3,
             "title": null,
-            "section_title": null,
             "verses": [
                 {
                     "verse": 1,
@@ -398,7 +395,6 @@
         {
             "number": 4,
             "title": null,
-            "section_title": null,
             "verses": [
                 {
                     "verse": 1,
@@ -560,7 +556,6 @@
         {
             "number": 5,
             "title": null,
-            "section_title": null,
             "verses": [
                 {
                     "verse": 1,
@@ -697,7 +692,6 @@
         {
             "number": 6,
             "title": null,
-            "section_title": null,
             "verses": [
                 {
                     "verse": 1,
