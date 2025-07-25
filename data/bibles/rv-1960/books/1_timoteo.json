@@ -1,0 +1,609 @@
+{
+    "id": 54,
+    "name": "1 Timoteo",
+    "abbreviation": "1 Ti",
+    "testament": "Nuevo Testamento",
+    "chapters": [
+        {
+            "number": 1,
+            "title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Pablo, apóstol de Jesucristo por mandato de Dios nuestro Salvador, y del Señor Jesucristo nuestra esperanza,",
+                    "section_title": "Salutación"
+                },
+                {
+                    "verse": 2,
+                    "text": "a Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz, de Dios nuestro Padre y de Cristo Jesús nuestro Señor.",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "Como te rogué que te quedases en Efeso, cuando fui a Macedonia, para que mandases a algunos que no enseñen diferente doctrina,",
+                    "section_title": "Advertencia contra falsas doctrinas"
+                },
+                {
+                    "verse": 4,
+                    "text": "ni presten atención a fábulas y genealogías interminables, que acarrean disputas más bien que edificación de Dios que es por fe, así te encargo ahora.",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "Pues el propósito de este mandamiento es el amor nacido de corazón limpio, y de buena conciencia, y de fe no fingida,",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "de las cuales cosas desviándose algunos, se apartaron a vana palabrería,",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "queriendo ser doctores de la ley, sin entender ni lo que hablan ni lo que afirman.",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "Pero sabemos que la ley es buena, si uno la usa legítimamente;",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "conociendo esto, que la ley no fue dada para el justo, sino para los transgresores y desobedientes, para los impíos y pecadores, para los irreverentes y profanos, para los parricidas y matricidas, para los homicidas,",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "para los fornicarios, para los sodomitas, para los secuestradores, para los mentirosos y perjuros, y para cuanto se oponga a la sana doctrina,",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "según el glorioso evangelio del Dios bendito, que a mí me ha sido encomendado.",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "Doy gracias al que me fortaleció, a Cristo Jesús nuestro Señor, porque me tuvo por fiel, poniéndome en el ministerio,",
+                    "section_title": "El ministerio de Pablo"
+                },
+                {
+                    "verse": 13,
+                    "text": "habiendo yo sido antes blasfemo, perseguidor e injuriador; mas fui recibido a misericordia porque lo hice por ignorancia, en incredulidad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "Pero la gracia de nuestro Señor fue más abundante con la fe y el amor que es en Cristo Jesús.",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "Palabra fiel y digna de ser recibida por todos: que Cristo Jesús vino al mundo para salvar a los pecadores, de los cuales yo soy el primero.",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "Pero por esto fui recibido a misericordia, para que Jesucristo mostrase en mí el primero toda su clemencia, para ejemplo de los que habrían de creer en él para vida eterna.",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "Por tanto, al Rey de los siglos, inmortal, invisible, al único y sabio Dios, sea honor y gloria por los siglos de los siglos. Amén.",
+                    "section_title": null
+                },
+                {
+                    "verse": 18,
+                    "text": "Este mandamiento, hijo Timoteo, te encargo, para que conforme a las profecías que se hicieron antes en cuanto a ti, milites por ellas la buena milicia,",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "manteniendo la fe y buena conciencia, desechando la cual naufragaron en cuanto a la fe algunos,",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "de los cuales son Himeneo y Alejandro, a quienes entregué a Satanás para que aprendan a no blasfemar.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Exhorto ante todo, a que se hagan rogativas, oraciones, peticiones y acciones de gracias, por todos los hombres;",
+                    "section_title": "Instrucciones sobre la oración"
+                },
+                {
+                    "verse": 2,
+                    "text": "por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque esto es bueno y agradable delante de Dios nuestro Salvador,",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "el cual quiere que todos los hombres sean salvos y vengan al conocimiento de la verdad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, Jesucristo hombre,",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "el cual se dio a sí mismo en rescate por todos, de lo cual se dio testimonio a su debido tiempo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "Para esto yo fui constituido predicador y apóstol (digo verdad en Cristo, no miento), y maestro de los gentiles en fe y verdad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "Quiero, pues, que los hombres oren en todo lugar, levantando manos santas, sin ira ni contienda.",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "Asimismo que las mujeres se atavíen de ropa decorosa, con pudor y modestia; no con peinado ostentoso, ni oro, ni perlas, ni vestidos costosos,",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "sino con buenas obras, como corresponde a mujeres que profesan piedad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "La mujer aprenda en silencio, con toda sujeción.",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio.",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque Adán fue formado primero, después Eva;",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión.",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "Pero se salvará engendrando hijos, si permaneciere en fe, amor y santificación, con modestia.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Palabra fiel: Si alguno anhela obispado, buena obra desea.",
+                    "section_title": "Requisitos de los obispos"
+                },
+                {
+                    "verse": 2,
+                    "text": "Pero es necesario que el obispo sea irreprensible, marido de una sola mujer, sobrio, prudente, decoroso, hospedador, apto para enseñar;",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "no dado al vino, no pendenciero, no codicioso de ganancias deshonestas, sino amable, apacible, no avaro;",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "que gobierne bien su casa, que tenga a sus hijos en sujeción con toda honestidad",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "(pues el que no sabe gobernar su propia casa, ¿cómo cuidará de la iglesia de Dios?);",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "no un neófito, no sea que envaneciéndose caiga en la condenación del diablo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "También es necesario que tenga buen testimonio de los de afuera, para que no caiga en descrédito y en lazo del diablo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "Los diáconos asimismo deben ser honestos, sin doblez, no dados a mucho vino, no codiciosos de ganancias deshonestas;",
+                    "section_title": "Requisitos de los diáconos"
+                },
+                {
+                    "verse": 9,
+                    "text": "que guarden el misterio de la fe con limpia conciencia.",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "Y éstos también sean sometidos a prueba primero, y entonces ejerzan el diaconado, si son irreprensibles.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "Las mujeres asimismo sean honestas, no calumniadoras, sino sobrias, fieles en todo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "Los diáconos sean maridos de una sola mujer, y que gobiernen bien sus hijos y sus casas.",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque los que ejerzan bien el diaconado, ganan para sí un grado honroso, y mucha confianza en la fe que es en Cristo Jesús.",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "Esto te escribo, aunque tengo la esperanza de ir pronto a verte,",
+                    "section_title": "El misterio de la piedad"
+                },
+                {
+                    "verse": 15,
+                    "text": "para que si tardo, sepas cómo debes conducirte en la casa de Dios, que es la iglesia del Dios viviente, columna y baluarte de la verdad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "E indiscutiblemente, grande es el misterio de la piedad: Dios fue manifestado en carne, Justificado en el Espíritu, Visto de los ángeles, Predicado a los gentiles, Creído en el mundo, Recibido arriba en gloria.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Pero el Espíritu dice claramente que en los postreros tiempos algunos apostatarán de la fe, escuchando a espíritus engañadores y a doctrinas de demonios;",
+                    "section_title": "Predicción de la apostasía"
+                },
+                {
+                    "verse": 2,
+                    "text": "por la hipocresía de mentirosos que, teniendo cauterizada la conciencia,",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "prohibirán casarse, y mandarán abstenerse de alimentos que Dios creó para que con acción de gracias participasen de ellos los creyentes y los que han conocido la verdad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque todo lo que Dios creó es bueno, y nada es de desecharse, si se toma con acción de gracias;",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "porque por la palabra de Dios y por la oración es santificado.",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "Si esto enseñas a los hermanos, serás buen ministro de Jesucristo, nutrido con las palabras de la fe y de la buena doctrina que has seguido.",
+                    "section_title": "Un buen ministro de Jesucristo"
+                },
+                {
+                    "verse": 7,
+                    "text": "Desecha las fábulas profanas y de viejas. Ejercítate para la piedad;",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "porque el ejercicio corporal para poco es provechoso, pero la piedad para todo aprovecha, pues tiene promesa de esta vida presente, y de la venidera.",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "Palabra fiel es esta, y digna de ser recibida por todos.",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "que por esto mismo trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, que es el Salvador de todos los hombres, mayormente de los que creen.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "Esto manda y enseña.",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "Ninguno tenga en poco tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza.",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "Entre tanto que voy, ocúpate en la lectura, la exhortación y la enseñanza.",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "No descuides el don que hay en ti, que te fue dado mediante profecía con la imposición de las manos del presbiterio.",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "Ocúpate en estas cosas; permanece en ellas, para que tu aprovechamiento sea manifiesto a todos.",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "Ten cuidado de ti mismo y de la doctrina; persiste en ello, pues haciendo esto, te salvarás a ti mismo y a los que te oyeren.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "No reprendas al anciano, sino exhórtale como a padre; a los más jóvenes, como a hermanos;",
+                    "section_title": "Deberes hacia los demás"
+                },
+                {
+                    "verse": 2,
+                    "text": "a las ancianas, como a madres; a las jovencitas, como a hermanas, con toda pureza.",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "Honra a las viudas que en verdad lo son.",
+                    "section_title": null
+                },
+                {
+                    "verse": 4,
+                    "text": "Pero si alguna viuda tiene hijos, o nietos, aprendan éstos primero a ser piadosos para con su propia familia, y a recompensar a sus padres; porque esto es lo bueno y agradable delante de Dios.",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "Mas la que en verdad es viuda y ha quedado sola, espera en Dios, y es diligente en súplicas y oraciones noche y día.",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "Pero la que se entrega a los placeres, viviendo está muerta.",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "Manda también estas cosas, para que sean irreprensibles;",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "porque si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe, y es peor que un incrédulo.",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "Sea puesta en la lista sólo la viuda no menor de sesenta años, que haya sido esposa de un solo marido,",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "que tenga testimonio de buenas obras; si ha criado hijos; si ha practicado la hospitalidad; si ha lavado los pies de los santos; si ha socorrido a los afligidos; si ha practicado toda buena obra.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "Pero viudas más jóvenes no admitas; porque cuando, impulsadas por sus deseos, se rebelan contra Cristo, quieren casarse,",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "incurriendo así en condenación, por haber quebrantado su primera fe.",
+                    "section_title": null
+                },
+                {
+                    "verse": 13,
+                    "text": "Y también aprenden a ser ociosas, andando de casa en casa; y no solamente ociosas, sino también chismosas y entremetidas, hablando lo que no debieran.",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "Quiero, pues, que las viudas jóvenes se casen, críen hijos, gobiernen su casa; que no den al adversario ninguna ocasión de maledicencia.",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "Porque ya algunas se han apartado en pos de Satanás.",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "Si algún creyente o alguna creyente tiene viudas, que las mantenga, y no sea gravada la iglesia, a fin de que haya lo suficiente para las que en verdad son viudas.",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "Los ancianos que gobiernan bien, sean tenidos por dignos de doble honor, mayormente los que trabajan en predicar y enseñar.",
+                    "section_title": null
+                },
+                {
+                    "verse": 18,
+                    "text": "Pues la Escritura dice: No pondrás bozal al buey que trilla; y: Digno es el obrero de su salario.",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "Contra un anciano no admitas acusación sino con dos o tres testigos.",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "A los que persisten en pecar, repréndelos delante de todos, para que los demás también teman.",
+                    "section_title": null
+                },
+                {
+                    "verse": 21,
+                    "text": "Te encarezco delante de Dios y del Señor Jesucristo, y de sus ángeles escogidos, que guardes estas cosas sin prejuicios, no haciendo nada con parcialidad.",
+                    "section_title": null
+                },
+                {
+                    "verse": 22,
+                    "text": "No impongas con ligereza las manos a ninguno, ni participes en pecados ajenos. Consérvate puro.",
+                    "section_title": null
+                },
+                {
+                    "verse": 23,
+                    "text": "Ya no bebas agua, sino usa de un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.",
+                    "section_title": null
+                },
+                {
+                    "verse": 24,
+                    "text": "Los pecados de algunos hombres se hacen patentes antes que ellos vengan a juicio, mas a otros se les descubren después.",
+                    "section_title": null
+                },
+                {
+                    "verse": 25,
+                    "text": "Asimismo se hacen manifiestas las buenas obras; y las que son de otra manera, no pueden permanecer ocultas.",
+                    "section_title": null
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": null,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Todos los que están bajo el yugo de esclavitud, tengan a sus amos por dignos de todo honor, para que no sea blasfemado el nombre de Dios y la doctrina.",
+                    "section_title": null
+                },
+                {
+                    "verse": 2,
+                    "text": "Y los que tienen amos creyentes, no los tengan en menos por ser hermanos, sino sírvanles mejor, por cuanto son creyentes y amados los que se benefician de su buen servicio. Esto enseña y exhorta.",
+                    "section_title": null
+                },
+                {
+                    "verse": 3,
+                    "text": "Si alguno enseña otra cosa, y no se conforma a las sanas palabras de nuestro Señor Jesucristo, y a la doctrina que es conforme a la piedad,",
+                    "section_title": "Piedad y contentamiento"
+                },
+                {
+                    "verse": 4,
+                    "text": "está envanecido, nada sabe, y delira acerca de cuestiones y contiendas de palabras, de las cuales nacen envidias, pleitos, blasfemias, malas sospechas,",
+                    "section_title": null
+                },
+                {
+                    "verse": 5,
+                    "text": "disputas necias de hombres corruptos de entendimiento y privados de la verdad, que toman la piedad como fuente de ganancia; apártate de los tales.",
+                    "section_title": null
+                },
+                {
+                    "verse": 6,
+                    "text": "Pero gran ganancia es la piedad acompañada de contentamiento;",
+                    "section_title": null
+                },
+                {
+                    "verse": 7,
+                    "text": "porque nada hemos traído a este mundo, y sin duda nada podremos sacar.",
+                    "section_title": null
+                },
+                {
+                    "verse": 8,
+                    "text": "Así que, teniendo sustento y abrigo, estemos contentos con esto.",
+                    "section_title": null
+                },
+                {
+                    "verse": 9,
+                    "text": "Porque los que quieren enriquecerse caen en tentación y lazo, y en muchas codicias necias y dañosas, que hunden a los hombres en destrucción y perdición;",
+                    "section_title": null
+                },
+                {
+                    "verse": 10,
+                    "text": "porque raíz de todos los males es el amor al dinero, el cual codiciando algunos, se extraviaron de la fe, y fueron traspasados de muchos dolores.",
+                    "section_title": null
+                },
+                {
+                    "verse": 11,
+                    "text": "Mas tú, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre.",
+                    "section_title": null
+                },
+                {
+                    "verse": 12,
+                    "text": "Pelea la buena batalla de la fe, echa mano de la vida eterna, a la cual asimismo fuiste llamado, habiendo hecho la buena profesión delante de muchos testigos.",
+                    "section_title": "La buena batalla de la fe"
+                },
+                {
+                    "verse": 13,
+                    "text": "Te mando delante de Dios, que da vida a todas las cosas, y de Jesucristo, que dio testimonio de la buena profesión delante de Poncio Pilato,",
+                    "section_title": null
+                },
+                {
+                    "verse": 14,
+                    "text": "que guardes el mandamiento sin mácula ni reprensión, hasta la aparición de nuestro Señor Jesucristo,",
+                    "section_title": null
+                },
+                {
+                    "verse": 15,
+                    "text": "la cual a su tiempo mostrará el bienaventurado y solo Soberano, Rey de reyes, y Señor de señores,",
+                    "section_title": null
+                },
+                {
+                    "verse": 16,
+                    "text": "el único que tiene inmortalidad, que habita en luz inaccesible; a quien ninguno de los hombres ha visto ni puede ver, al cual sea la honra y el imperio sempiterno. Amén.",
+                    "section_title": null
+                },
+                {
+                    "verse": 17,
+                    "text": "A los ricos de este siglo manda que no sean altivos, ni pongan la esperanza en las riquezas, las cuales son inciertas, sino en el Dios vivo, que nos da todas las cosas en abundancia para que las disfrutemos.",
+                    "section_title": null
+                },
+                {
+                    "verse": 18,
+                    "text": "Que hagan bien, que sean ricos en buenas obras, dadivosos, generosos;",
+                    "section_title": null
+                },
+                {
+                    "verse": 19,
+                    "text": "atesorando para sí buen fundamento para lo por venir, que echen mano de la vida eterna.",
+                    "section_title": null
+                },
+                {
+                    "verse": 20,
+                    "text": "Oh Timoteo, guarda lo que se te ha encomendado, evitando las profanas pláticas sobre cosas vanas, y los argumentos de la falsamente llamada ciencia,",
+                    "section_title": "Encargo final de Pablo a Timoteo"
+                },
+                {
+                    "verse": 21,
+                    "text": "la cual profesando algunos, se desviaron de la fe. La gracia sea contigo. Amén.",
+                    "section_title": null
+                }
+            ]
+        }
+    ]
+}
