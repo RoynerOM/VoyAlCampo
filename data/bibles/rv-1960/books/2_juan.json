@@ -1,0 +1,79 @@
+{
+  "id": 63,
+  "name": "2 Juan",
+  "abbreviation": "2 Jn",
+  "testament": "Nuevo Testamento",
+  "chapters": [
+    {
+      "number": 1,
+      "title": null,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "El anciano a la señora elegida y a sus hijos, a quienes yo amo en la verdad; y no sólo yo, sino también todos los que han conocido la verdad,",
+          "section_title": "Salutación"
+        },
+        {
+          "verse": 2,
+          "text": "a causa de la verdad que permanece en nosotros, y estará para siempre con nosotros:",
+          "section_title": null
+        },
+        {
+          "verse": 3,
+          "text": "Sea con vosotros gracia, misericordia y paz, de Dios Padre y del Señor Jesucristo, Hijo del Padre, en verdad y en amor.",
+          "section_title": null
+        },
+        {
+          "verse": 4,
+          "text": "Mucho me regocijé porque he hallado a algunos de tus hijos andando en la verdad, conforme al mandamiento que recibimos del Padre.",
+          "section_title": "Permaneced en la doctrina de Cristo"
+        },
+        {
+          "verse": 5,
+          "text": "Y ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros.",
+          "section_title": null
+        },
+        {
+          "verse": 6,
+          "text": "Y este es el amor, que andemos según sus mandamientos. Este es el mandamiento: que andéis en amor, como vosotros habéis oído desde el principio.",
+          "section_title": null
+        },
+        {
+          "verse": 7,
+          "text": "Porque muchos engañadores han salido por el mundo, que no confiesan que Jesucristo ha venido en carne. Quien esto hace es el engañador y el anticristo.",
+          "section_title": null
+        },
+        {
+          "verse": 8,
+          "text": "Mirad por vosotros mismos, para que no perdáis el fruto de vuestro trabajo, sino que recibáis galardón completo.",
+          "section_title": null
+        },
+        {
+          "verse": 9,
+          "text": "Cualquiera que se extravía, y no persevera en la doctrina de Cristo, no tiene a Dios; el que persevera en la doctrina de Cristo, ése sí tiene al Padre y al Hijo.",
+          "section_title": null
+        },
+        {
+          "verse": 10,
+          "text": "Si alguno viene a vosotros, y no trae esta doctrina, no lo recibáis en casa, ni le digáis: ¡Bienvenido!",
+          "section_title": null
+        },
+        {
+          "verse": 11,
+          "text": "Porque el que le dice: ¡Bienvenido! participa en sus malas obras.",
+          "section_title": null
+        },
+        {
+          "verse": 12,
+          "text": "Tengo muchas cosas que escribiros, pero no he querido hacerlo por medio de papel y tinta, pues espero ir a vosotros y hablar cara a cara, para que nuestro gozo sea cumplido.",
+          "section_title": "Espero ir a vosotros"
+        },
+        {
+          "verse": 13,
+          "text": "Los hijos de tu hermana, la elegida, te saludan. Amén.",
+          "section_title": null
+        }
+      ]
+    }
+  ]
+}
